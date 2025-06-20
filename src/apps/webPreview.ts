@@ -24,6 +24,7 @@ const render = async (url: string) => {
       waitUntil: 'networkidle0',
       timeout: 60000
     },
+    fullPage: true,
     setViewport: {
       width: 1920,
       height: 1080
