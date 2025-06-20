@@ -1,0 +1,6 @@
+# 功能开关
+# 是否开启网页截图预览
+WebPreview: true
+
+# 网页截图是否主人可用
+WebPreview_Master: false
