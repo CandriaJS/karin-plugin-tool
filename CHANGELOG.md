@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/CandriaJS/karin-plugin-tool/compare/v1.1.0...v1.1.1) (2025-06-20)
+
+
+### 🐛 错误修复
+
+* config ([821fb65](https://github.com/CandriaJS/karin-plugin-tool/commit/821fb6580b0a0b166f2168931d3f23d9b62aaf90))
+
 ## [1.1.0](https://github.com/CandriaJS/karin-plugin-tool/compare/v1.0.0...v1.1.0) (2025-06-20)
 
 
